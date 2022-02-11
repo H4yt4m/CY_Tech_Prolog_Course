@@ -1,2 +1,2 @@
 # TPs_Prolog
-Prolog files i wrote during my Prolog Course at CY Tech.
+Some Prolog files from my Prolog Course during my Computer Science Engineering program at CY Tech.
